@@ -1,16 +1,29 @@
-## Hi there 👋
+# **Hi, I'm an AI/ML MSc student**
 
-<!--
-**OnufrienkoVS/OnufrienkoVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student specializing in Artificial Intelligence and Machine Learning, with interests in deep learning, applied ML research, and reproducible experimentation.
 
-Here are some ideas to get you started:
+My projects cover both experimental research and end-to-end ML systems, from data preprocessing and model evaluation to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Research Interests**
+
+- Machine Learning & Deep Learning
+- Large Language Models
+- Experimental Design & Model Evaluation
+- Reproducible ML Research
+
+## **Selected Projects**
+
+| Project                                                                                | Focus                        |
+| -------------------------------------------------------------------------------------- | ---------------------------- |
+| [GA–CatBoost HPO Benchmark](https://github.com/OnufrienkoVS/ga-catboost-hpo-benchmark) | HPO and statistical analysis |
+| [C-MAPSS RUL Prediction](https://github.com/OnufrienkoVS/cmapss-rul-prediction)        | Predictive maintenance       |
+| [Bearing Anomaly Detection](https://github.com/OnufrienkoVS/bearing-anomaly-detection) | Bachelor's thesis            |
+| [MovieLens Recommender](https://github.com/OnufrienkoVS/recsys-movielens)              | Recommendation systems       |
+
+## **Tech Stack**
+
+`Python` `PyTorch` `scikit-learn` `CatBoost` `XGBoost` `Optuna` `NumPy` `Pandas` `SciPy` `Jupyter` `FastAPI` `Streamlit` `Docker` `Git` `uv`
+
+## **Current Focus**
+
+Master's studies, AI/ML research, and reproducible machine learning experiments.
